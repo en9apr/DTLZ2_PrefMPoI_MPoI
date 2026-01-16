@@ -23,4 +23,4 @@ python -m pip install "numpy-stl==2.16.3"
 cd FrontCalc
 python setup.py install
 
-# Adjust the .sh scripts in each directory for your local installations
+# Adjust the .sh scripts in each directory for your local cluster
