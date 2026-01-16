@@ -1,5 +1,6 @@
 # The following installation sequence is recommended to run the optimisation:
 
+```bash
 mkdir -p ~/.venvs
 python3 -m venv ~/.venvs/py3
 source ~/.venvs/py3/bin/activate
