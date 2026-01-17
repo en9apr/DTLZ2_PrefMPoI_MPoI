@@ -4,7 +4,7 @@ The python script `check_aquisition_function.py` was used to check the function 
 python check_aquisition_function.py
 ```
 
-To run a full Bayesian optimisation run, the following installations are suggested:
+To run a full Bayesian optimisation routine, the following installations are suggested:
 
 ```bash
 # The following installation sequence is recommended to run the optimisation:
