@@ -1,4 +1,4 @@
-The python script check_aquisition_function.py was used to check the function for PrefMPoI. It can be run from the command line as follows:
+The python script `check_aquisition_function.py` was used to check the function for PrefMPoI. It can be run from the command line as follows:
 
 ```bash
 python check_aquisition_function.py
