@@ -1,4 +1,10 @@
-Installation
+The python script check_aquisition_function.py was used to check the function for PrefMPoI. It can be run from the command line as follows:
+
+```bash
+python check_aquisition_function.py
+```
+
+To run a full Bayesian optimisation run, the following installations are suggested:
 
 ```bash
 # The following installation sequence is recommended to run the optimisation:
@@ -24,3 +30,4 @@ cd FrontCalc
 python setup.py install
 
 # Adjust the .sh scripts in each directory for your local cluster
+```
