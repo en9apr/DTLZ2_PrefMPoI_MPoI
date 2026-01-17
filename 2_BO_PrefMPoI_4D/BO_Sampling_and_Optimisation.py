@@ -71,7 +71,7 @@ if __name__ == '__main__':
     
     # budget
     number_of_LHS_samples = 43 
-    number_of_BO_samples = 5
+    number_of_BO_samples = 100
     budget = number_of_LHS_samples + number_of_BO_samples
     
     # number of dimensions
