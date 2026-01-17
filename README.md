@@ -31,3 +31,9 @@ python setup.py install
 
 # Adjust the .sh scripts in each directory for your local cluster
 ```
+
+The results in each directory can be plotted as follows:
+
+```bash
+python plot_results.py
+```
